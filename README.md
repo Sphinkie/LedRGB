@@ -26,7 +26,7 @@ void LedRGB::setColorRGB(int Red, int Green, int Blue)
 void LedRGB::setColorHSL(int Hue, int Saturation, int Lightness)
 ```
 > Light the LED with the specified color.  
-> _Hue_ : 0..255			
+> _Hue_ : 0..255  
 > _Saturation_: 0..255	As the LED cannot display grey, a low saturation is some kind of white  
 > _Lightness_: 0..255
 
