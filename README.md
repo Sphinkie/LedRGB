@@ -5,12 +5,14 @@ Arduino library for RGB led
 Description of the methods offered by this class:  
 
 ```c++
-LedRGB::LedRGB(int RedLedPin, int GreenLedPin, int BlueLedPin) ```
+LedRGB::LedRGB(int RedLedPin, int GreenLedPin, int BlueLedPin)
+```
 Initialize LED RGB. Use PWM digital outputs.
 _parameters_: the 3 pins where  the RGB cathodes of the LED are connected
 
 ```c++
-void LedRGB::switchOFF()```
+void LedRGB::switchOFF()
+```
 Switch off the RGB LED
 Avec une LED RGB anode commune : la LED s'allume sur niveau BAS, et s'éteint sur niveau HAUT.
 
