@@ -50,4 +50,4 @@ float LedRGB::fastCos(float value)
 > _value:_ value in radian (0..2xPI).  
 
 -----
-Available on GitHub ![@Sphinkie/LedRGB](@Sphinkie/LedRGB)
+Available on GitHub @Sphinkie/LedRGB
