@@ -2,6 +2,6 @@
 Arduino library for easy handling with a RGB led.
 
 
-See the API description of the methods offered by this class in the atatched file **API_description.md**.
+See the API description of the methods offered by this library in the attached file **API_description.md**.
 
 Available on GitHub @Sphinkie/LedRGB
